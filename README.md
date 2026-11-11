@@ -1,5 +1,6 @@
-dart
-for(int i = 0){
+dart```
+class human extends apple{
+static int apple;
 
 }
 ```
